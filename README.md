@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/JIYOXC/AIUADDONS"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamUltroid&show_icons=true&theme=dracula&hide_border=true&repo=AIUADDONS"></a></p>
+# <p align="center"><a href="https://github.com/JIYOXC/AIUADDONS"><img src="https://github-readme-stats.vercel.app/api/pin?username=JIYOXC&show_icons=true&theme=dracula&hide_border=true&repo=AIUADDONS"></a></p>
 <p align="center">
 
 # AIUADDONS 
